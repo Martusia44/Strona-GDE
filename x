@@ -22,7 +22,9 @@
                  <div class="menu">
                  <a href="xxxxxxxxxxxxxxxxxxx">Kategorie</a> |  <a href="xxxxxxxxxxxxxxxx">Filtry</a>
 
-            
+        <div class="footer">
+        Łączymy pasjonatów z ambitną młodzieżą
+        </div>
 </body>
      
 </html>

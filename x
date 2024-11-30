@@ -16,6 +16,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-      
+        <div class="top">
+        <h1>Activities Market Place</h1>
+        </div>
+                 <div class="menu">
+                 <a href="xxxxxxxxxxxxxxxxxxx">Kategorie</a> |  <a href="xxxxxxxxxxxxxxxx">Filtry</a>
+
+            
 </body>
      
+</html>
